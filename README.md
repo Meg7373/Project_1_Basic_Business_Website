@@ -12,3 +12,8 @@ These features are: three HTML pages, a CSS style sheet, a navigation bar, one i
 The Home page offers a functional carousel option to look through three bakery images as well as a navigation bar. The next section welcomes and greets the customer, instructing them to look at the Bakery Items page for products, and the About Us page for information 
 about the company. The Bakery Items page allows the user to look through the different pastry items the shop offers along with a little description of each one. The About Us page shares information about the business, and a form for the user to fill out if they would 
 like to sign up for the newsletter and/or want to place a catering order. There is a 'Submit' button for them to press to complete this action.
+
+### Technologies Used:
+
+* HTML
+* CSS
