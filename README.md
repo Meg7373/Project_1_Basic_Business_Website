@@ -17,3 +17,11 @@ like to sign up for the newsletter and/or want to place a catering order. There 
 
 * HTML
 * CSS
+
+### Ideas for Future Improvement
+
+1. Add a checkbox feature on the bakery items for online orders.
+2. Add a shopping cart feature for online orders.
+3. Add a product customization option for online orders.
+4. Add a light/dark mode feature on the website.
+5. Add a register account feature for customers to track order status.
