@@ -1,0 +1,32 @@
+* {
+    padding:0%;
+    margin: 0.2em;
+    border:5rem;
+}
+
+header {
+    background-color: rgb(245, 7, 193);
+}
+body {
+    background-image: url(/images/BakeryBackground.jpeg)
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(246, 233, 235);
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(246, 233, 235);
+}
+
+p {
+    background-color: rgb(246, 233, 235);
+}
+
+figcaption {
+    background-color: rgb(246, 233, 235);
+}

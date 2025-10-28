@@ -18,6 +18,7 @@ like to sign up for the newsletter and/or want to place a catering order. There 
 * HTML
 * CSS
 * Bootstrap
+* Bootswatch
 
 ### Ideas for Future Improvement
 
