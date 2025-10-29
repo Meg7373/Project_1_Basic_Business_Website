@@ -33,3 +33,11 @@ like to sign up for the newsletter and/or want to place a catering order. There 
 1. As a person with a gluten-allergy, I want to find desserts that are gluten-free, so that I can safely consume my favorite dessert.
 2. As a wedding couple, they want to have desserts that are gluten-free, so that all guests can pariticipate in the food festivities.
 3. As a person hosting an public event, they want to offer the public allergen-friendly options, so that they will draw a larger crowd. 
+
+# Wireframes
+
+![Sweets & Eats Home Page](/Wireframes/BakerySweets&EatsPage.drawio.png)
+
+![Bakery Items Page](/Wireframes/BakeryItemsPage.drawio.png)
+
+![About Us Page](/Wireframes/BakeryAboutUsPage.drawio.png)
