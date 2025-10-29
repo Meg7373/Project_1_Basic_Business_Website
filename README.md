@@ -1,6 +1,9 @@
 # Project_1_Basic_Business_Website
 
 ## Meaghann Wallace
+### LinkedIn Profile Link
+* www.linkedin.com/in/meaghann-wallace-2137a3247
+
 
 ### Overview/Description of Project:
 
@@ -34,10 +37,18 @@ like to sign up for the newsletter and/or want to place a catering order. There 
 2. As a wedding couple, they want to have desserts that are gluten-free, so that all guests can pariticipate in the food festivities.
 3. As a person hosting an public event, they want to offer the public allergen-friendly options, so that they will draw a larger crowd. 
 
-# Wireframes
+### Wireframes
 
 ![Sweets & Eats Home Page](/Wireframes/BakerySweets&EatsPage.drawio.png)
 
 ![Bakery Items Page](/Wireframes/BakeryItemsPage.drawio.png)
 
 ![About Us Page](/Wireframes/BakeryAboutUsPage.drawio.png)
+
+### Website Pages
+
+![Sweets & Eats Home Page](/images/Sweets&EatsPage.png)
+
+![Bakery Items Page](/images/BakeryItemsPage.png)
+
+![About Us Page](/images/AboutUsPage.png)
